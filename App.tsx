@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect, useCallback } from 'react';
-import Navigation from './components/Navigation';
+
 import CameraStream from './components/CameraStream';
 import Dashboard from './components/Dashboard';
 import MusicPlayer from './components/MusicPlayer';
