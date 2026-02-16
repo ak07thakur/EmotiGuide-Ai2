@@ -1,0 +1,22 @@
+EMOTIGUIDE — FINAL WORKING VERSION
+
+STEP 1 — Install NodeJS (LTS)
+https://nodejs.org
+
+STEP 2 — Open terminal inside this folder
+
+STEP 3 — Run:
+
+npm install
+npm run dev
+
+STEP 4 — Open browser:
+http://localhost:5173
+
+API KEY:
+Create file named .env.local
+
+Inside paste:
+VITE_GEMINI_API_KEY=PASTE_YOUR_KEY
+
+Save → restart npm run dev

@@ -1,0 +1,8 @@
+{
+  "name": "EmotiGuide: AI Mood & Career Companion",
+  "description": "A comprehensive AI-powered platform for real-time emotion detection, personalized career guidance, mental health tracking, and stress relief.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
